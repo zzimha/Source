@@ -8,6 +8,8 @@ return n === 0
 }
 show(f1(square, 3, heart));
 
+//DRAW USING STEPPER
+
 //Q2 
 function f2(rune, n) {
 return n === 0
@@ -16,3 +18,5 @@ return n === 0
 square);
 }
 show(f2(heart, 3));
+
+//DRAW USING STEPPER
